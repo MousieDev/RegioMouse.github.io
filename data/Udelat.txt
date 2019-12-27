@@ -3,6 +3,6 @@ Dát nadpis na střed                                                           
 Upravit nadpis                                                                     -Hotovo, 26.12.2019 19:09;
 Vytvořit menu pod nápisem Doprava-Fotky vlaků, meter, tramvají, autobusů           -Hotovo, 26.12.2019 20:06;
 Zvětšit nápis ktará fotí do velikosti nápisu My jsme skupina lidí.                 -Udělat
-Zvětšit ikony sociálních sítí.                                                     -Udělat
+Zvětšit ikony sociálních sítí.                                                     -
 
 !!! DOPSAT BUS A VLAK !!!                                                          -Udělat
