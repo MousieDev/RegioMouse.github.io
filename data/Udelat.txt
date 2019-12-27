@@ -5,3 +5,4 @@ Vytvořit menu pod nápisem Doprava-Fotky vlaků, meter, tramvají, autobusů   
 Zvětšit nápis ktará fotí do velikosti nápisu My jsme skupina lidí.                 -Hotovo, 27.12.2019 8:03;
 Zvětšit ikony sociálních sítí.                                                     -Hotovo, 27.12.2019 8:03;
 !!! DOPSAT BUS A VLAK !!!                                                          -Hotovo, 27.12.2019, 8:03;
+Upravit vzhled pro mobily
