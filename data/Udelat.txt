@@ -13,3 +13,4 @@ Udělat měnění fotek na "Doma", aby lidi byli zaujati                        
 Udělat secrety na webu                                                             -Hotovo, 27.12.2019, 16:48;
 Kompletně opravit "O nás" nabídku                                                  -Hotovo, 27.12.2019, 16:49;
 Zvětšit písmo na "Napište nám E-Mail"                                              -Hotovo, 27.11.2019, 20:31;
+Upravit velikost fotek a náhledů                                                   -Udělat
