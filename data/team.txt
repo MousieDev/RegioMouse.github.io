@@ -1,2 +1,2 @@
-1.) Dopravní videa    -Hlavní fotograf
-2.) RegioMouse        -Hlavní programátor
+1.) Dopravní videa    -Hlavní fotograf, tester stránky, zadavač úkolů
+2.) RegioMouse        -Hlavní programátor, tester stránky, přidavač fotkek
