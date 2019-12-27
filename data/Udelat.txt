@@ -6,3 +6,5 @@ Zvětšit nápis ktará fotí do velikosti nápisu My jsme skupina lidí.       
 Zvětšit ikony sociálních sítí.                                                     -Hotovo, 27.12.2019 8:03;
 !!! DOPSAT BUS A VLAK !!!                                                          -Hotovo, 27.12.2019, 8:03;
 !!! Upravit vzhled pro mobily !!!                                                  -Nutné!
+Vycentrovat nadpisy a horní menu                                                   -Hotovo, 27.12.2019, 12:17;
+Udělat letadlo.html a auto.html                                                    -Hotovo, 27.12.2019, 13:02;
