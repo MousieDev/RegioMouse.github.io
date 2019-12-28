@@ -18,3 +18,5 @@ Napsat popisek: HYDRA pod tohle Hydra v Praze-Masarykově nádraží
 Napsat: DNES TENTO WEB NAVŠTÍVILO ??? LIDÍ
 Napsat popisek: VAN HOOL TROLEJBUS EXQUI CITY
 Napsat popisek: TRAMVAJ BOMBARDIER CITYRUNNER
+Přepsat popisek: Autobus Iveco Crossway 12m na Nádraží Radotín
+Místo popisku Metra napsat Metro
