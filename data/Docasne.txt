@@ -8,3 +8,24 @@
 
 
 City24-Trolley-Hybrid-LinzAG-Linien.JPG
+
+
+<p class="copyright">
+    Design: <a href="data/Team.txt">NÁŠ TÝM</a>.
+    <font size="2">
+    <br>
+    <br>
+    <a href="data/Udelat.txt">.</a>
+    <a href="Template.html">,</a>
+    <br>
+    <a href="data/Secret.txt">...</a>
+    </font>
+</p>
+
+<p class="copyright">
+    Design: NÁŠ TÝM
+    <br>
+    <font size="1">
+    <a href="secret.html">.</a>
+    </font>
+</p>
