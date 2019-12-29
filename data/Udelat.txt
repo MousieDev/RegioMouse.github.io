@@ -5,11 +5,11 @@ Vytvořit menu pod nápisem Doprava-Fotky vlaků, meter, tramvají, autobusů   
 Zvětšit nápis ktará fotí do velikosti nápisu My jsme skupina lidí.                 -Hotovo, 27.12.2019 8:03;
 Zvětšit ikony sociálních sítí.                                                     -Hotovo, 27.12.2019 8:03;
 Dopsat BUS a VLAK!                                                                 -Hotovo, 27.12.2019, 8:03;
-Upravit vzhled pro mobily                                                          -Nutné!
+Upravit vzhled pro mobily                                                          -Nutné!;
 Vycentrovat nadpisy a horní menu                                                   -Hotovo, 27.12.2019, 12:17;
 Udělat letadlo.html a auto.html                                                    -Hotovo, 27.12.2019, 13:02;
 Udělat počítadlo návštěv                                                           -Hotovo, 27.12.2019, 13:34;
-Udělat měnění fotek na "Doma", aby lidi byli zaujati                               -Udělat
+Udělat měnění fotek na "Doma", aby lidi byli zaujati                               -Udělat;
 Udělat secrety na webu                                                             -Hotovo, 27.12.2019, 16:48;
 Kompletně opravit "O nás" nabídku                                                  -Hotovo, 27.12.2019, 16:49;
 Zvětšit písmo na "Napište nám E-Mail"                                              -Hotovo, 27.11.2019, 20:31;
@@ -23,5 +23,5 @@ Místo popisku Metra napsat Metro                                               
 Upravit secret odkazy a secret stránku                                             -Hotovo, 29.12.2019, 13:47;
 Secret.html-report z LightHouse, Udelat.txt, Team.txt, Secret.txt, Docasne.txt     -Hotovo, 29.12.2019, 13:48;
 Upravit domovskou stránku Doma (dopsat text)                                       -Částečně hotovo, 19.12.2019, 13:51;
-Zařídit doménu                                                                     -!Nutné!
+Zařídit doménu                                                                     -!Nutné!;
 Udělat nápisy tlustě                                                               -Hotovo, 29.12.2019, 14:18;
