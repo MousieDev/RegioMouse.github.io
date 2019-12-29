@@ -4,8 +4,8 @@ Upravit nadpis                                                                  
 Vytvořit menu pod nápisem Doprava-Fotky vlaků, meter, tramvají, autobusů           -Hotovo, 26.12.2019 20:06;
 Zvětšit nápis ktará fotí do velikosti nápisu My jsme skupina lidí.                 -Hotovo, 27.12.2019 8:03;
 Zvětšit ikony sociálních sítí.                                                     -Hotovo, 27.12.2019 8:03;
-!!! DOPSAT BUS A VLAK !!!                                                          -Hotovo, 27.12.2019, 8:03;
-!!! Upravit vzhled pro mobily !!!                                                  -Nutné!
+Dopsat BUS a VLAK!                                                                 -Hotovo, 27.12.2019, 8:03;
+Upravit vzhled pro mobily                                                          -Nutné!
 Vycentrovat nadpisy a horní menu                                                   -Hotovo, 27.12.2019, 12:17;
 Udělat letadlo.html a auto.html                                                    -Hotovo, 27.12.2019, 13:02;
 Udělat počítadlo návštěv                                                           -Hotovo, 27.12.2019, 13:34;
@@ -16,9 +16,11 @@ Zvětšit písmo na "Napište nám E-Mail"                                      
 Upravit velikost fotek a náhledů                                                   -Hotovo, 28.12.2019, 19:10;
 Napsat popisek: HYDRA pod tohle Hydra v Praze-Masarykově nádraží                   -Hotovo, 18.12.2019, 19:16;
 Napsat: DNES TENTO WEB NAVŠTÍVILO ??? LIDÍ                                         -Asi ne, 28.12.2019, 19:07;
-Napsat popisek: VAN HOOL TROLEJBUS EXQUI CITY                                      -Hotovo, 18.12.2019, 19:15;
-Napsat popisek: TRAMVAJ BOMBARDIER CITYRUNNER                                      -Hotovo, 18.12.2019, 19:12;
-Přepsat popisek: Autobus Iveco Crossway 12m na Nádraží Radotín                     -Hotovo, 18.12.2019, 19:15;
-Místo popisku Metra napsat Metro                                                   -Hotovo, 18.12.2019, 19:11;
-Upravit secret odkazy
-Secret.html-report z LightHouse, Udelat.txt, Team.txt, Secret.txt, Docasne.txt
+Napsat popisek: VAN HOOL TROLEJBUS EXQUI CITY                                      -Hotovo, 28.12.2019, 19:15;
+Napsat popisek: TRAMVAJ BOMBARDIER CITYRUNNER                                      -Hotovo, 28.12.2019, 19:12;
+Přepsat popisek: Autobus Iveco Crossway 12m na Nádraží Radotín                     -Hotovo, 28.12.2019, 19:15;
+Místo popisku Metra napsat Metro                                                   -Hotovo, 28.12.2019, 19:11;
+Upravit secret odkazy a secret stránku                                             -Hotovo, 29.12.2019, 13:47;
+Secret.html-report z LightHouse, Udelat.txt, Team.txt, Secret.txt, Docasne.txt     -Hotovo, 29.12.2019, 13:48;
+Upravit domovskou stránku Doma (dopsat text)                                       -Částečně hotovo, 19.12.2019, 13:51;
+Zařídit doménu                                                                     -!Nutné!
