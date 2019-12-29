@@ -25,3 +25,4 @@ Secret.html-report z LightHouse, Udelat.txt, Team.txt, Secret.txt, Docasne.txt  
 Upravit domovskou stránku Doma (dopsat text)                                       -Částečně hotovo, 19.12.2019, 13:51;
 Zařídit doménu                                                                     -!Nutné!;
 Udělat nápisy tlustě                                                               -Hotovo, 29.12.2019, 14:18;
+Do "O nás" napsat o tajné stránce
