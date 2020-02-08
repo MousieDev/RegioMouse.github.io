@@ -28,3 +28,5 @@ Udělat nápisy tlustě                                                         
 Do "O nás" napsat o tajné stránce
 Popisek tmavě modré lokomotivy : LOKOMOTIVA ESO pod to kurzivou :Lokomotiva 362 na Smíchově
 Opravit hydru                                                                                       -Hotovo, 8.2,2020, 8:13
+Napsat Tramvaje
+Přejmenovat soubory tramvaje                                                                        -Hotovo, 8.2.2020, 8:41
