@@ -30,3 +30,4 @@ Popisek tmavě modré lokomotivy : LOKOMOTIVA ESO pod to kurzivou :Lokomotiva 36
 Opravit hydru                                                                                       -Hotovo, 8.2,2020, 8:13
 Napsat Tramvaje
 Přejmenovat soubory tramvaje                                                                        -Hotovo, 8.2.2020, 8:41
+Zveřejnit tramvaj
